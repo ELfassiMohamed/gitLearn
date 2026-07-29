@@ -1,6 +1,10 @@
+import java.time.*;
+
 public class Message {
 	public final static void main (String[] args){
-	int three = 3;
-	String four = "4";
-	System.out.println(1 + 2 + three + four);
+		var date1 = LocalDate.of(2022, Month.JANUARY, 20);
+    var date2 = LocalDate.of(2022, 1, 20);
+
+    System.out.println(date1);
+    System.out.println(date2);
 } }
