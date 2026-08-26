@@ -5,12 +5,7 @@ public class StringOps {
 	String str = "Hello";
 	str = "Hellooooooooooo";
 	
-	String mot = str ;
 
-	//str = "Hellooooooooooo";
-	
-	System.out.println(str); //Hellooooooooooo
-	System.out.println(mot); //Hello
 	
 	
 //Using StringBuilder Class
