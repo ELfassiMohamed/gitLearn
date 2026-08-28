@@ -1,3 +1,0 @@
-1. add login form
-
-2.Add auth logic
